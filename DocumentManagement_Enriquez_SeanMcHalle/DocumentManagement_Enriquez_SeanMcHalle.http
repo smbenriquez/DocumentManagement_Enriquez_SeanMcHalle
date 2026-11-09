@@ -1,0 +1,6 @@
+@DocumentManagement_Enriquez_SeanMcHalle_HostAddress = http://localhost:5105
+
+GET {{DocumentManagement_Enriquez_SeanMcHalle_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
